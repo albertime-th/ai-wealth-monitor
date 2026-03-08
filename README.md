@@ -5,7 +5,7 @@
 A real-time currency conversion tool specifically designed for Digital Nomads and frequent travelers between Thailand, Malaysia, and China.
 
 ### 🚀 Quick Access
-Click here to view the live app: [👉 Use AlbertTime Converter Now](https://albertime-converter.streamlit.app/))
+Click here to view the live app: [👉 Use AlbertTime Converter Now] https://albertime-converter.streamlit.app/
 
 ### ✨ Key Features
 * **Real-time Rates**: Fetches the latest exchange rate data via professional APIs.
